@@ -29,8 +29,6 @@ public class Juego {
 
         this.juegoID=JuegoID;
     }
-
-
     public String getDescription() {
 
         return description;
